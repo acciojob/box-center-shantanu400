@@ -3,11 +3,10 @@
   height: 200px;
 width:200px;
   display: flex;
-	border: 2x black;
+	border-color: black;
+	border-width:2px;
  background:lightblue;
   align-items: center;
   justify-content: center;
 }
 
-.item {
-  width: 10em;
